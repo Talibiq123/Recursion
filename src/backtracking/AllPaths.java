@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 public class AllPaths {
     public static void main(String[] args) {
+        //dciedbklscbe
         boolean[][] maze = {
                 {true, true, true},
                 {true, true, true},
@@ -48,8 +49,6 @@ public class AllPaths {
             for (int[] arr : path) {
                 System.out.println(Arrays.toString(arr));
             }
-            System.out.println(p);
-            System.out.println();
             return;
         }
         System.out.println();
