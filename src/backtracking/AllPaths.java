@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class AllPaths {
     public static void main(String[] args) {
         //dciedbklscbe
+        //guyf67
         boolean[][] maze = {
                 {true, true, true},
                 {true, true, true},
